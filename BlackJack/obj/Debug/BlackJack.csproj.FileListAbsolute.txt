@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\Sa\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Burak\source\repos\Sa\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Burak\source\repos\Sa\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Burak\source\repos\Sa\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\Sa\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Sa\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Burak\source\repos\Sa\BlackJack\obj\Debug\BlackJack.pdb
